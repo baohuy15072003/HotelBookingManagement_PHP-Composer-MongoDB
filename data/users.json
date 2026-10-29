@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "U001",
+    "name": "Nguyễn Bảo Huy",
+    "email": "huy@gmail.com",
+    "phone": "098765432",
+    "address": "TPHCM"
+  },
+  {
+    "_id": "U002",
+    "name": "Nguyễn Thanh Hùng",
+    "email": "hung@gmail.com",
+    "phone": "09123567",
+    "address": "Bình Phước"
+  },
+  {
+    "_id": "U003",
+    "name": "Hồ A Phúc",
+    "email": "phuc@gmail.com",
+    "phone": "01234782",
+    "address": "TPHCM"
+  },
+  {
+    "_id": "U004",
+    "name": "Hà Lê Khắc Chân",
+    "email": "chan@gmail.com",
+    "phone": "091245432",
+    "address": "Bình Dương"
+  },
+  {
+    "_id": "U005",
+    "name": "Nguyễn Ngọc Bảo Linh",
+    "email": "linh@gmail.com",
+    "phone": "0922672332",
+    "address": "Tiền Giang"
+  }
+]

@@ -1,0 +1,8 @@
+{
+    "require": {
+        "mongodb/mongodb": "^2.5",
+        "vlucas/phpdotenv": "^5.7",
+        "twbs/bootstrap": "5.3.8",
+        "dompdf/dompdf": "^3.1"
+    }
+}

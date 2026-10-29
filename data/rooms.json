@@ -1,0 +1,130 @@
+[
+  {
+    "_id": "R001",
+    "name": "Phòng Tiêu chuẩn Giường Đôi",
+    "category_id": "C001",
+    "amenities": [
+      "Điều hòa",
+      "Wi-Fi miễn phí",
+      "Tivi màn hình phẳng"
+    ],
+    "price_per_night": 650000,
+    "stock": 10
+  },
+  {
+    "_id": "R002",
+    "name": "Phòng Tiêu chuẩn 2 Giường Đơn",
+    "category_id": "C001",
+    "amenities": [
+      "Điều hòa",
+      "Wi-Fi miễn phí",
+      "Tủ lạnh mini"
+    ],
+    "price_per_night": 680000,
+    "stock": 8
+  },
+  {
+    "_id": "R003",
+    "name": "Phòng Cao cấp Hướng Biển",
+    "category_id": "C002",
+    "amenities": [
+      "Ban công",
+      "Bồn tắm",
+      "Mini bar",
+      "Tivi thông minh"
+    ],
+    "price_per_night": 1250000,
+    "stock": 8
+  },
+  {
+    "_id": "R004",
+    "name": "Phòng Cao cấp Hướng Thành Phố",
+    "category_id": "C002",
+    "amenities": [
+      "Cửa sổ lớn",
+      "Ban công",
+      "Bàn làm việc",
+      "Wi-Fi tốc độ cao"
+    ],
+    "price_per_night": 1150000,
+    "stock": 6
+  },
+  {
+    "_id": "R005",
+    "name": "Phòng Hạng sang Gia Đình",
+    "category_id": "C003",
+    "amenities": [
+      "2 Giường đôi lớn",
+      "Phòng khách nhỏ",
+      "Két an toàn",
+      "Máy pha cà phê"
+    ],
+    "price_per_night": 2100000,
+    "stock": 5
+  },
+  {
+    "_id": "R006",
+    "name": "Phòng Hạng sang Cặp Đôi",
+    "category_id": "C003",
+    "amenities": [
+      "Giường King",
+      "Bồn tắm Jacuzzi",
+      "View toàn cảnh",
+      "Rượu vang chào mừng"
+    ],
+    "price_per_night": 2400000,
+    "stock": 4
+  },
+  {
+    "_id": "R007",
+    "name": "Phòng Thượng hạng Executive VIP",
+    "category_id": "C004",
+    "amenities": [
+      "Phòng tiếp khách riêng",
+      "Jacuzzi riêng",
+      "View biển 180 độ",
+      "Dịch vụ quản gia 24/7"
+    ],
+    "price_per_night": 3500000,
+    "stock": 3
+  },
+  {
+    "_id": "R008",
+    "name": "Phòng Thượng hạng Penthouse",
+    "category_id": "C004",
+    "amenities": [
+      "Bếp riêng",
+      "Sân thượng riêng",
+      "Bàn ăn 6 người",
+      "Hệ thống âm thanh cao cấp"
+    ],
+    "price_per_night": 4800000,
+    "stock": 2
+  },
+  {
+    "_id": "R009",
+    "name": "Phòng Thương gia Presidential Suite",
+    "category_id": "C005",
+    "amenities": [
+      "Bể bơi vô cực riêng",
+      "Phòng họp riêng",
+      "Xe đưa đón sân bay luxury",
+      "Đầu bếp riêng theo yêu cầu"
+    ],
+    "price_per_night": 12000000,
+    "stock": 1
+  },
+  {
+    "_id": "R010",
+    "name": "Phòng Thương gia Villa Sân Vườn",
+    "category_id": "C005",
+    "amenities": [
+      "Khuôn viên sân vườn riêng",
+      "Bồn tắm ngoài trời",
+      "Ghế tắm nắng",
+      "Bàn BBQ"
+    ],
+    "price_per_night": 8500000,
+    "stock": 2
+  }
+]

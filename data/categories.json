@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "C001",
+    "name": "Phòng Tiêu chuẩn"
+  },
+  {
+    "_id": "C002",
+    "name": "Phòng Cao cấp"
+  },
+  {
+    "_id": "C003",
+    "name": "Phòng Hạng sang"
+  },
+  {
+    "_id": "C004",
+    "name": "Phòng Thượng hạng"
+  },
+  {
+    "_id": "C005",
+    "name": "Phòng Thương gia"
+  }
+]

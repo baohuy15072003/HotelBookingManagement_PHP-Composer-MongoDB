@@ -1,0 +1,212 @@
+[
+  {
+    "_id": "BK001",
+    "user_id": "U001",
+    "items": [
+      {
+        "room_id": "R001",
+        "quantity": 1,
+        "nights": 2
+      },
+      {
+        "room_id": "R003",
+        "quantity": 1,
+        "nights": 2
+      }
+    ],
+    "total": 3800000,
+    "check_in_date": {
+      "$date": "2026-11-01T00:00:00.000Z"
+    },
+    "check_out_date": {
+      "$date": "2026-11-03T00:00:00.000Z"
+    },
+    "payment_status": "Đã thanh toán",
+    "booking_status": "Đã xác nhận"
+  },
+  {
+    "_id": "BK002",
+    "user_id": "U002",
+    "items": [
+      {
+        "room_id": "R005",
+        "quantity": 1,
+        "nights": 3
+      }
+    ],
+    "total": 6300000,
+    "check_in_date": {
+      "$date": "2026-11-10T00:00:00.000Z"
+    },
+    "check_out_date": {
+      "$date": "2026-11-13T00:00:00.000Z"
+    },
+    "payment_status": "Chưa thanh toán",
+    "booking_status": "Đang xử lý"
+  },
+  {
+    "_id": "BK003",
+    "user_id": "U003",
+    "items": [
+      {
+        "room_id": "R007",
+        "quantity": 1,
+        "nights": 2
+      }
+    ],
+    "total": 7000000,
+    "check_in_date": {
+      "$date": "2026-11-15T00:00:00.000Z"
+    },
+    "check_out_date": {
+      "$date": "2026-11-17T00:00:00.000Z"
+    },
+    "payment_status": "Đã thanh toán",
+    "booking_status": "Đã nhận phòng"
+  },
+  {
+    "_id": "BK004",
+    "user_id": "U004",
+    "items": [
+      {
+        "room_id": "R002",
+        "quantity": 2,
+        "nights": 1
+      }
+    ],
+    "total": 1360000,
+    "check_in_date": {
+      "$date": "2026-11-20T00:00:00.000Z"
+    },
+    "check_out_date": {
+      "$date": "2026-11-21T00:00:00.000Z"
+    },
+    "payment_status": "Đã thanh toán",
+    "booking_status": "Đã trả phòng"
+  },
+  {
+    "_id": "BK005",
+    "user_id": "U005",
+    "items": [
+      {
+        "room_id": "R009",
+        "quantity": 1,
+        "nights": 2
+      }
+    ],
+    "total": 24000000,
+    "check_in_date": {
+      "$date": "2026-12-01T00:00:00.000Z"
+    },
+    "check_out_date": {
+      "$date": "2026-12-03T00:00:00.000Z"
+    },
+    "payment_status": "Đã thanh toán",
+    "booking_status": "Đã xác nhận"
+  },
+  {
+    "_id": "BK006",
+    "user_id": "U001",
+    "items": [
+      {
+        "room_id": "R004",
+        "quantity": 1,
+        "nights": 3
+      }
+    ],
+    "total": 3450000,
+    "check_in_date": {
+      "$date": "2026-12-05T00:00:00.000Z"
+    },
+    "check_out_date": {
+      "$date": "2026-12-08T00:00:00.000Z"
+    },
+    "payment_status": "Chưa thanh toán",
+    "booking_status": "Đang xử lý"
+  },
+  {
+    "_id": "BK007",
+    "user_id": "U002",
+    "items": [
+      {
+        "room_id": "R006",
+        "quantity": 1,
+        "nights": 2
+      }
+    ],
+    "total": 4800000,
+    "check_in_date": {
+      "$date": "2026-12-10T00:00:00.000Z"
+    },
+    "check_out_date": {
+      "$date": "2026-12-12T00:00:00.000Z"
+    },
+    "payment_status": "Đã thanh toán",
+    "booking_status": "Đã Hủy"
+  },
+  {
+    "_id": "BK008",
+    "user_id": "U003",
+    "items": [
+      {
+        "room_id": "R008",
+        "quantity": 1,
+        "nights": 1
+      }
+    ],
+    "total": 4800000,
+    "check_in_date": {
+      "$date": "2026-12-24T00:00:00.000Z"
+    },
+    "check_out_date": {
+      "$date": "2026-12-25T00:00:00.000Z"
+    },
+    "payment_status": "Đã thanh toán",
+    "booking_status": "Đã xác nhận"
+  },
+  {
+    "_id": "BK009",
+    "user_id": "U004",
+    "items": [
+      {
+        "room_id": "R010",
+        "quantity": 1,
+        "nights": 3
+      }
+    ],
+    "total": 25500000,
+    "check_in_date": {
+      "$date": "2026-12-30T00:00:00.000Z"
+    },
+    "check_out_date": {
+      "$date": "2027-01-02T00:00:00.000Z"
+    },
+    "payment_status": "Đã thanh toán",
+    "booking_status": "Đã xác nhận"
+  },
+  {
+    "_id": "BK010",
+    "user_id": "U005",
+    "items": [
+      {
+        "room_id": "R001",
+        "quantity": 2,
+        "nights": 1
+      },
+      {
+        "room_id": "R002",
+        "quantity": 1,
+        "nights": 1
+      }
+    ],
+    "total": 1980000,
+    "check_in_date": {
+      "$date": "2027-01-05T00:00:00.000Z"
+    },
+    "check_out_date": {
+      "$date": "2027-01-06T00:00:00.000Z"
+    },
+    "payment_status": "Chưa thanh toán",
+    "booking_status": "Đang xử lý"
+  }
+]
