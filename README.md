@@ -25,7 +25,7 @@ A web-based hotel booking management application developed using **Plain PHP and
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/baohuy15072003/HotelBookingManagement_PHP-Composer-MongoDB/
+   git clone https://github.com/baohuy15072003/HotelBookingManagement_PHP-Composer-MongoDB.git
    cd HotelBookingManagement_PHP-Composer-MongoDB
    ```
 
